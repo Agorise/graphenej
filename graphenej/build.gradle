@@ -21,7 +21,7 @@ dependencies {
     implementation 'com.neovisionaries:nv-websocket-client:1.30'
     implementation 'org.bitcoinj:bitcoinj-core:0.14.3'
     implementation 'com.google.code.gson:gson:2.8.6'
-    implementation 'org.tukaani:xz:1.6'
+    implementation 'org.tukaani:xz:1.9'
 
     //  Rx dependencies
     api 'io.reactivex.rxjava2:rxandroid:2.1.1'
